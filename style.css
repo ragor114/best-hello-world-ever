@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(20, 20, 20);
+}
+
+div {
+    margin: auto;
+}
+
+#hello_world {
+    text-align: center;
+    margin: auto;
+    font-size: 30;
+    color: rgb(209, 209, 209);
+}
